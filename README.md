@@ -1,5 +1,5 @@
 # Vatra
-This is a simple recipes site.
+This is a simple recipes site made using .NET, C# and Javascript.
 
 
 ## Table of Contents
