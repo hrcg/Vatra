@@ -1,0 +1,1719 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>B1</paraleli>
+    <lenda>Grafe dhe alogoritme</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>Salla I1 (200 C)</klasa>
+    <ora>17:00-18:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>A</paraleli>
+    <lenda>Administrimi dhe siguria e sistemeve</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>KlasaD3</klasa>
+    <ora>13:00-14:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>A</paraleli>
+    <lenda>Administrimi dhe siguria e sistemeve</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Mërkurë</dita>
+    <klasa>KlasaD6</klasa>
+    <ora>12:00-13:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>A1</paraleli>
+    <lenda>Administrimi dhe siguria e sistemeve</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>Salla M1 (300 C)</klasa>
+    <ora>11:00-12:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>A</paraleli>
+    <lenda>Administrimi dhe siguria e sistemeve</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>KlasaD3</klasa>
+    <ora>12:00-13:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>A1</paraleli>
+    <lenda>Administrimi dhe siguria e sistemeve</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Mërkurë</dita>
+    <klasa>243A</klasa>
+    <ora>16:00-17:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>A2</paraleli>
+    <lenda>Administrimi dhe siguria e sistemeve</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>114A</klasa>
+    <ora>15:00-16:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>A2</paraleli>
+    <lenda>Administrimi dhe siguria e sistemeve</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Mërkurë</dita>
+    <klasa>243A</klasa>
+    <ora>17:00-18:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>A</paraleli>
+    <lenda>Aftesi manaxheriale</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>410A</klasa>
+    <ora>12:00-13:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>A</paraleli>
+    <lenda>Aftesi manaxheriale</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>410A</klasa>
+    <ora>13:00-14:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>A1</paraleli>
+    <lenda>Aftesi manaxheriale</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>219A</klasa>
+    <ora>14:00-15:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>A1</paraleli>
+    <lenda>Aftesi manaxheriale</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>219A</klasa>
+    <ora>15:00-16:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>A2</paraleli>
+    <lenda>Aftesi manaxheriale</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Mërkurë</dita>
+    <klasa>Salla F (108 C)</klasa>
+    <ora>15:00-16:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>A2</paraleli>
+    <lenda>Aftesi manaxheriale</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Mërkurë</dita>
+    <klasa>202C</klasa>
+    <ora>14:00-15:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>A2</paraleli>
+    <lenda>Analizë Matematike</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>Salla M2 (300 C)</klasa>
+    <ora>8:00-9:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>A2</paraleli>
+    <lenda>Analizë Matematike</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>Salla M2 (300 C)</klasa>
+    <ora>9:00-10:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>B</paraleli>
+    <lenda>Analizë Matematike</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Mërkurë</dita>
+    <klasa>101B</klasa>
+    <ora>8:00-9:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>B</paraleli>
+    <lenda>Analizë Matematike</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Mërkurë</dita>
+    <klasa>101B</klasa>
+    <ora>9:00-10:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>B1</paraleli>
+    <lenda>Analizë Matematike</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>301B</klasa>
+    <ora>8:00-9:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>B1</paraleli>
+    <lenda>Analizë Matematike</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>301B</klasa>
+    <ora>9:00-10:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>B2</paraleli>
+    <lenda>Analizë Matematike</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>321A</klasa>
+    <ora>8:00-9:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>B2</paraleli>
+    <lenda>Analizë Matematike</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>321A</klasa>
+    <ora>9:00-10:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>A1</paraleli>
+    <lenda>Anglisht 1</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>Salla BT (106 C)</klasa>
+    <ora>8:00-9:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>A1</paraleli>
+    <lenda>Anglisht 1</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>Salla BT (106 C)</klasa>
+    <ora>9:00-10:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>A2</paraleli>
+    <lenda>Anglisht 1</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>221A</klasa>
+    <ora>10:00-11:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>A2</paraleli>
+    <lenda>Anglisht 1</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>221A</klasa>
+    <ora>11:00-12:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>B1</paraleli>
+    <lenda>Anglisht 1</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>KlasaD4</klasa>
+    <ora>12:00-13:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>B1</paraleli>
+    <lenda>Anglisht 1</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>KlasaD6</klasa>
+    <ora>13:00-14:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>B2</paraleli>
+    <lenda>Anglisht 1</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Mërkurë</dita>
+    <klasa>210C</klasa>
+    <ora>10:00-11:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>B2</paraleli>
+    <lenda>Anglisht 1</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Premte</dita>
+    <klasa>202C</klasa>
+    <ora>12:00-13:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>A1</paraleli>
+    <lenda>Anglisht 2</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>219A</klasa>
+    <ora>16:00-17:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>A1</paraleli>
+    <lenda>Anglisht 2</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>219A</klasa>
+    <ora>17:00-18:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>A2</paraleli>
+    <lenda>Anglisht 2</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>305C</klasa>
+    <ora>19:00-20:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>A2</paraleli>
+    <lenda>Anglisht 2</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>305C</klasa>
+    <ora>18:00-19:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>B1</paraleli>
+    <lenda>Anglisht 2</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>Salla BT (106 C)</klasa>
+    <ora>16:00-17:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>B1</paraleli>
+    <lenda>Anglisht 2</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>Salla BT (106 C)</klasa>
+    <ora>17:00-18:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>B2</paraleli>
+    <lenda>Anglisht 2</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>201C</klasa>
+    <ora>18:00-19:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>B2</paraleli>
+    <lenda>Anglisht 2</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>201C</klasa>
+    <ora>19:00-20:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>A</paraleli>
+    <lenda>Baza të dhënash</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>KlasaD5</klasa>
+    <ora>18:00-19:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>A</paraleli>
+    <lenda>Baza të dhënash</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>KlasaD5</klasa>
+    <ora>19:00-20:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>A1</paraleli>
+    <lenda>Baza të dhënash</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>221A</klasa>
+    <ora>14:00-15:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>A1</paraleli>
+    <lenda>Baza të dhënash</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>221A</klasa>
+    <ora>15:00-16:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>A2</paraleli>
+    <lenda>Baza të dhënash</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>Salla F (108 C)</klasa>
+    <ora>16:00-17:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>A2</paraleli>
+    <lenda>Baza të dhënash</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>401B</klasa>
+    <ora>17:00-18:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>B</paraleli>
+    <lenda>Baza të dhënash</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Mërkurë</dita>
+    <klasa>410A</klasa>
+    <ora>12:00-13:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>B</paraleli>
+    <lenda>Baza të dhënash</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Mërkurë</dita>
+    <klasa>KlasaD2</klasa>
+    <ora>13:00-14:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>B1</paraleli>
+    <lenda>Baza të dhënash</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Mërkurë</dita>
+    <klasa>401B</klasa>
+    <ora>16:00-17:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>B1</paraleli>
+    <lenda>Baza të dhënash</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Mërkurë</dita>
+    <klasa>401B</klasa>
+    <ora>17:00-18:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>B2</paraleli>
+    <lenda>Baza të dhënash</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>305C</klasa>
+    <ora>11:00-12:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>B2</paraleli>
+    <lenda>Baza të dhënash</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>Salla BT (106 C)</klasa>
+    <ora>10:00-11:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>A</paraleli>
+    <lenda>Bazat e TI</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Premte</dita>
+    <klasa>101B</klasa>
+    <ora>8:00-9:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>A</paraleli>
+    <lenda>Bazat e TI</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Mërkurë</dita>
+    <klasa>KlasaD6</klasa>
+    <ora>11:00-12:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>A</paraleli>
+    <lenda>Bazat e TI</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Mërkurë</dita>
+    <klasa>KlasaD6</klasa>
+    <ora>10:00-11:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>A</paraleli>
+    <lenda>Bazat e TI</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Premte</dita>
+    <klasa>101B</klasa>
+    <ora>9:00-10:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>A1</paraleli>
+    <lenda>Bazat e TI</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>321A</klasa>
+    <ora>10:00-11:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>A1</paraleli>
+    <lenda>Bazat e TI</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>321A</klasa>
+    <ora>11:00-12:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>A2</paraleli>
+    <lenda>Bazat e TI</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>Salla M2 (300 C)</klasa>
+    <ora>12:00-13:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>A2</paraleli>
+    <lenda>Bazat e TI</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>Salla M2 (300 C)</klasa>
+    <ora>13:00-14:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>B</paraleli>
+    <lenda>Bazat e TI</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>KlasaD5</klasa>
+    <ora>13:00-14:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>B</paraleli>
+    <lenda>Bazat e TI</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>KlasaD5</klasa>
+    <ora>14:00-15:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>B</paraleli>
+    <lenda>Teknologji dotNet</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>301B</klasa>
+    <ora>10:00-11:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>B</paraleli>
+    <lenda>Teknologji dotNet</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>301B</klasa>
+    <ora>11:00-12:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>B2</paraleli>
+    <lenda>Aftesi manaxheriale</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>Salla M1 (300 C)</klasa>
+    <ora>8:00-9:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>B2</paraleli>
+    <lenda>Aftesi manaxheriale</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>Salla M1 (300 C)</klasa>
+    <ora>9:00-10:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>B1</paraleli>
+    <lenda>Administrimi dhe siguria e sistemeve</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>Salla M2 (300 C)</klasa>
+    <ora>8:00-9:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>B1</paraleli>
+    <lenda>Administrimi dhe siguria e sistemeve</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>Salla M2 (300 C)</klasa>
+    <ora>9:00-10:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>B</paraleli>
+    <lenda>Aftesi manaxheriale</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>243A</klasa>
+    <ora>17:00-18:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>B</paraleli>
+    <lenda>Sisteme interneti</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>KlasaD5</klasa>
+    <ora>14:00-15:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>B</paraleli>
+    <lenda>Sisteme interneti</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>KlasaD5</klasa>
+    <ora>15:00-16:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>B1</paraleli>
+    <lenda>Sisteme interneti</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>Salla M2 (300 C)</klasa>
+    <ora>16:00-17:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>B2</paraleli>
+    <lenda>Sisteme interneti</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>Salla M2 (300 C)</klasa>
+    <ora>17:00-18:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>B1</paraleli>
+    <lenda>Teknologji dotNet</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>Salla M2 (300 C)</klasa>
+    <ora>12:00-13:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>B1</paraleli>
+    <lenda>Teknologji dotNet</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>Salla M2 (300 C)</klasa>
+    <ora>13:00-14:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>B2</paraleli>
+    <lenda>Teknologji dotNet</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>Salla I1 (200 C)</klasa>
+    <ora>12:00-13:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>B2</paraleli>
+    <lenda>Teknologji dotNet</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>Salla I1 (200 C)</klasa>
+    <ora>13:00-14:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>B</paraleli>
+    <lenda>Aftesi manaxheriale</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>243A</klasa>
+    <ora>18:00-19:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>B1</paraleli>
+    <lenda>Aftesi manaxheriale</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>305C</klasa>
+    <ora>15:00-16:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>B1</paraleli>
+    <lenda>Aftesi manaxheriale</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>305C</klasa>
+    <ora>16:00-17:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>B2</paraleli>
+    <lenda>Administrimi dhe siguria e sistemeve</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>Klasa BT</klasa>
+    <ora>15:00-16:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>B2</paraleli>
+    <lenda>Administrimi dhe siguria e sistemeve</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>Klasa BT</klasa>
+    <ora>16:00-17:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>B</paraleli>
+    <lenda>Administrimi dhe siguria e sistemeve</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Mërkurë</dita>
+    <klasa>401B</klasa>
+    <ora>8:00-9:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>B</paraleli>
+    <lenda>Administrimi dhe siguria e sistemeve</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Mërkurë</dita>
+    <klasa>401B</klasa>
+    <ora>9:00-10:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>B</paraleli>
+    <lenda>Administrimi dhe siguria e sistemeve</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Premte</dita>
+    <klasa>KlasaD2</klasa>
+    <ora>17:00-18:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>B</paraleli>
+    <lenda>Administrimi dhe siguria e sistemeve</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Premte</dita>
+    <klasa>KlasaD2</klasa>
+    <ora>18:00-19:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>A1</paraleli>
+    <lenda>Programim e Struktura të dhënash</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>Salla I1 (200 C)</klasa>
+    <ora>9:00-10:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>A1</paraleli>
+    <lenda>Analizë Matematike</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Premte</dita>
+    <klasa>Salla M2 (300 C)</klasa>
+    <ora>10:00-11:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>A1</paraleli>
+    <lenda>Analizë Matematike</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Premte</dita>
+    <klasa>Salla M2 (300 C)</klasa>
+    <ora>11:00-12:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>A</paraleli>
+    <lenda>Programim e Struktura të dhënash</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>KlasaD6</klasa>
+    <ora>10:00-11:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>A</paraleli>
+    <lenda>Programim e Struktura të dhënash</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>KlasaD6</klasa>
+    <ora>11:00-12:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>A</paraleli>
+    <lenda>Analizë Matematike</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Premte</dita>
+    <klasa>KlasaD2</klasa>
+    <ora>12:00-13:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>A</paraleli>
+    <lenda>Analizë Matematike</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Premte</dita>
+    <klasa>KlasaD2</klasa>
+    <ora>13:00-14:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>A2</paraleli>
+    <lenda>Programim e Struktura të dhënash</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Mërkurë</dita>
+    <klasa>Salla I1 (200 C)</klasa>
+    <ora>9:00-10:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>A</paraleli>
+    <lenda>Administrimi dhe siguria e sistemeve</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Mërkurë</dita>
+    <klasa>KlasaD6</klasa>
+    <ora>13:00-14:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>B1</paraleli>
+    <lenda>Grafe dhe alogoritme</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>Salla I1 (200 C)</klasa>
+    <ora>16:00-17:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>B</paraleli>
+    <lenda>Bazat e TI</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>KlasaD5</klasa>
+    <ora>15:00-16:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>B</paraleli>
+    <lenda>Bazat e TI</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>KlasaD5</klasa>
+    <ora>16:00-17:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>B1</paraleli>
+    <lenda>Bazat e TI</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>Salla I1 (200 C)</klasa>
+    <ora>10:00-11:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>B1</paraleli>
+    <lenda>Bazat e TI</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>Salla I1 (200 C)</klasa>
+    <ora>11:00-12:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>B2</paraleli>
+    <lenda>Bazat e TI</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>321A</klasa>
+    <ora>12:00-13:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>B2</paraleli>
+    <lenda>Bazat e TI</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>321A</klasa>
+    <ora>13:00-14:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>A</paraleli>
+    <lenda>Fizikë</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>410A</klasa>
+    <ora>10:00-11:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>A</paraleli>
+    <lenda>Fizikë</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>410A</klasa>
+    <ora>11:00-12:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>A1</paraleli>
+    <lenda>Fizikë</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>214A</klasa>
+    <ora>8:00-9:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>A1</paraleli>
+    <lenda>Fizikë</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>214A</klasa>
+    <ora>9:00-10:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>A2</paraleli>
+    <lenda>Fizikë</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>321A</klasa>
+    <ora>12:00-13:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>A2</paraleli>
+    <lenda>Fizikë</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>221A</klasa>
+    <ora>13:00-14:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>B</paraleli>
+    <lenda>Fizikë</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Premte</dita>
+    <klasa>KlasaD2</klasa>
+    <ora>8:00-9:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>B</paraleli>
+    <lenda>Fizikë</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Premte</dita>
+    <klasa>KlasaD2</klasa>
+    <ora>9:00-10:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>B1</paraleli>
+    <lenda>Fizikë</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Mërkurë</dita>
+    <klasa>314A</klasa>
+    <ora>10:00-11:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>B1</paraleli>
+    <lenda>Fizikë</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Mërkurë</dita>
+    <klasa>314A</klasa>
+    <ora>11:00-12:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>B2</paraleli>
+    <lenda>Fizikë</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>Salla F (108 C)</klasa>
+    <ora>10:00-11:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>B2</paraleli>
+    <lenda>Fizikë</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>Salla F (108 C)</klasa>
+    <ora>11:00-12:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>A</paraleli>
+    <lenda>Grafe dhe alogoritme</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>KlasaD1</klasa>
+    <ora>18:00-19:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>A</paraleli>
+    <lenda>Grafe dhe alogoritme</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>KlasaD1</klasa>
+    <ora>19:00-20:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>A</paraleli>
+    <lenda>Grafe dhe alogoritme</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Premte</dita>
+    <klasa>KlasaD1</klasa>
+    <ora>12:00-13:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>A</paraleli>
+    <lenda>Grafe dhe alogoritme</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Premte</dita>
+    <klasa>KlasaD1</klasa>
+    <ora>13:00-14:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>A1</paraleli>
+    <lenda>Grafe dhe alogoritme</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Mërkurë</dita>
+    <klasa>219A</klasa>
+    <ora>17:00-18:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>A1</paraleli>
+    <lenda>Grafe dhe alogoritme</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>KlasaD6</klasa>
+    <ora>16:00-17:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>A1</paraleli>
+    <lenda>Grafe dhe alogoritme</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>KlasaD6</klasa>
+    <ora>17:00-18:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>A1</paraleli>
+    <lenda>Grafe dhe alogoritme</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Mërkurë</dita>
+    <klasa>219A</klasa>
+    <ora>16:00-17:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>A2</paraleli>
+    <lenda>Grafe dhe alogoritme</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>321A</klasa>
+    <ora>16:00-17:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>A2</paraleli>
+    <lenda>Grafe dhe alogoritme</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>321A</klasa>
+    <ora>17:00-18:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>A2</paraleli>
+    <lenda>Grafe dhe alogoritme</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Mërkurë</dita>
+    <klasa>214A</klasa>
+    <ora>16:00-17:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>A2</paraleli>
+    <lenda>Grafe dhe alogoritme</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Mërkurë</dita>
+    <klasa>214A</klasa>
+    <ora>17:00-18:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>B</paraleli>
+    <lenda>Grafe dhe alogoritme</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Mërkurë</dita>
+    <klasa>KlasaD6</klasa>
+    <ora>14:00-15:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>B</paraleli>
+    <lenda>Grafe dhe alogoritme</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Mërkurë</dita>
+    <klasa>KlasaD6</klasa>
+    <ora>15:00-16:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>B</paraleli>
+    <lenda>Grafe dhe alogoritme</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Premte</dita>
+    <klasa>KlasaD1</klasa>
+    <ora>14:00-15:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>B</paraleli>
+    <lenda>Grafe dhe alogoritme</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Premte</dita>
+    <klasa>KlasaD1</klasa>
+    <ora>15:00-16:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>B1</paraleli>
+    <lenda>Grafe dhe alogoritme</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>202C</klasa>
+    <ora>12:00-13:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>B1</paraleli>
+    <lenda>Grafe dhe alogoritme</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>Salla BT (106 C)</klasa>
+    <ora>13:00-14:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>B2</paraleli>
+    <lenda>Grafe dhe alogoritme</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>343A</klasa>
+    <ora>13:00-14:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>B2</paraleli>
+    <lenda>Grafe dhe alogoritme</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Enjte</dita>
+    <klasa>343A</klasa>
+    <ora>14:00-15:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>B2</paraleli>
+    <lenda>Grafe dhe alogoritme</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Mërkurë</dita>
+    <klasa>Salla F (108 C)</klasa>
+    <ora>18:00-19:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>B2</paraleli>
+    <lenda>Grafe dhe alogoritme</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Mërkurë</dita>
+    <klasa>Salla BT (106 C)</klasa>
+    <ora>17:00-18:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>B</paraleli>
+    <lenda>Programim e Struktura të dhënash</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Premte</dita>
+    <klasa>KlasaD1</klasa>
+    <ora>10:00-11:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>B</paraleli>
+    <lenda>Programim e Struktura të dhënash</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Premte</dita>
+    <klasa>KlasaD1</klasa>
+    <ora>11:00-12:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>B1</paraleli>
+    <lenda>Programim e Struktura të dhënash</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Premte</dita>
+    <klasa>Salla F (108 C)</klasa>
+    <ora>14:00-15:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>1</viti>
+    <paraleli>B2</paraleli>
+    <lenda>Programim e Struktura të dhënash</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Premte</dita>
+    <klasa>Salla F (108 C)</klasa>
+    <ora>15:00-16:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>A</paraleli>
+    <lenda>Programim i orjentuar objekt</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>KlasaD2</klasa>
+    <ora>16:00-17:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>A</paraleli>
+    <lenda>Programim i orjentuar objekt</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>KlasaD2</klasa>
+    <ora>17:00-18:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>A1</paraleli>
+    <lenda>Programim i orjentuar objekt</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Premte</dita>
+    <klasa>219A</klasa>
+    <ora>10:00-11:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>A2</paraleli>
+    <lenda>Programim i orjentuar objekt</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>201C</klasa>
+    <ora>15:00-16:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>B</paraleli>
+    <lenda>Programim i orjentuar objekt</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Premte</dita>
+    <klasa>KlasaD1</klasa>
+    <ora>17:00-18:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>B</paraleli>
+    <lenda>Programim i orjentuar objekt</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Premte</dita>
+    <klasa>KlasaD1</klasa>
+    <ora>16:00-17:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>B1</paraleli>
+    <lenda>Programim i orjentuar objekt</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>Salla BT (106 C)</klasa>
+    <ora>18:00-19:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>2</viti>
+    <paraleli>B2</paraleli>
+    <lenda>Programim i orjentuar objekt</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Hënë</dita>
+    <klasa>201C</klasa>
+    <ora>17:00-18:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>A</paraleli>
+    <lenda>Sisteme interneti</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>KlasaD2</klasa>
+    <ora>10:00-11:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>A</paraleli>
+    <lenda>Sisteme interneti</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>KlasaD2</klasa>
+    <ora>11:00-12:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>A1</paraleli>
+    <lenda>Sisteme interneti</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Premte</dita>
+    <klasa>201C</klasa>
+    <ora>13:00-14:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>A2</paraleli>
+    <lenda>Sisteme interneti</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Premte</dita>
+    <klasa>202C</klasa>
+    <ora>14:00-15:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>A</paraleli>
+    <lenda>Teknologji dotNet</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>410A</klasa>
+    <ora>15:00-16:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>A</paraleli>
+    <lenda>Teknologji dotNet</lenda>
+    <tipi>leksion</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Martë</dita>
+    <klasa>410A</klasa>
+    <ora>16:00-17:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>A1</paraleli>
+    <lenda>Teknologji dotNet</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Premte</dita>
+    <klasa>201C</klasa>
+    <ora>14:00-15:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>A1</paraleli>
+    <lenda>Teknologji dotNet</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Premte</dita>
+    <klasa>201C</klasa>
+    <ora>15:00-16:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>A2</paraleli>
+    <lenda>Teknologji dotNet</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Premte</dita>
+    <klasa>201C</klasa>
+    <ora>16:00-17:00</ora>
+  </content>
+  <content>
+    <dega>Bachelor në "Teknologji Informacioni dhe komunikimi"</dega>
+    <viti>3</viti>
+    <paraleli>A2</paraleli>
+    <lenda>Teknologji dotNet</lenda>
+    <tipi>seminar</tipi>
+    <pedagog>N/A</pedagog>
+    <dita>E Premte</dita>
+    <klasa>201C</klasa>
+    <ora>17:00-18:00</ora>
+  </content>
+</metadata>
