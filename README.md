@@ -7,7 +7,7 @@ This is a simple recipes site.
 - [Prerequisites](https://github.com/hrcg/Vatra#prerequisites)
 
 ## Quickstart
-Download the project and run it on your own IDE, you need to create a database or you can download the included sample one.
+Download the project and run it on your own IDE, you need to create a database or you can download the included sample one (sample_db).
 
 ## Prerequisites
 
